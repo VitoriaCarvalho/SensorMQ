@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sensor_publisher</string>
+    <string name="ativar_sensor">Ativar Sensor</string>
+    <string name="desativar_sensor">Desativar Sensor</string>
+</resources>
